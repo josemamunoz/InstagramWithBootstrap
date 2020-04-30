@@ -1,0 +1,26 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif; 
+}
+a.navbar-brand {
+    font-family: 'Oleo Script', cursive;
+}
+body{
+    background-color:#E6E6E6;
+}
+
+p.date {
+    font-weight: bold;
+    color: silver;
+}
+
+h5.card-title {
+    font-weight: bold;
+}
+
+p.comment {
+    color: lightslategrey;
+}
+
+a.page-link {
+    color: gray;
+}
